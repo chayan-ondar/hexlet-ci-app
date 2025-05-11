@@ -35,5 +35,4 @@ This repository is created and maintained by the team and the community of Hexle
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
-[![pipeline-stages](https://github.com/chayan-ondar/hexlet-ci-app/actions/workflows/pipeline-stages.yml/badge.svg)](https://github.com/chayan-ondar/hexlet-ci-app/actions/workflows/pipeline-stages.yml)
-
+[![Node CI](https://github.com/chayan-ondar/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/chayan-ondar/hexlet-ci-app/actions/workflows/main.yml)
